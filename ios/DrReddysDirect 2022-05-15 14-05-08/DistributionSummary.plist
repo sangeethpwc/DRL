@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DrReddysDirect.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>76BD6A704B49B4EBCD9057A3AA9E990F23BD4F1A</string>
+				<key>dateExpires</key>
+				<string>04/10/22</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>CU9MVGW56E.com.drl.drreddysdirect</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>CU9MVGW56E</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DrReddysDirect.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>11fd3efe-9a70-455b-8afe-08ec05aa7933</string>
+				<key>dateExpires</key>
+				<string>23/03/23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.drl.drreddysdirect</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>CU9MVGW56E</string>
+				<key>name</key>
+				<string>Dr.Reddy's Laboratories Ltd.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>7.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
